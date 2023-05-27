@@ -4,13 +4,23 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple mobile app that generates random memes and save it to your gallery.
 
-A few resources to get you started if this is your first Flutter project:
+Architecture: MVVM.
+State Mangement: Bloc.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Dependencies:
+  connectivity_plus
+  cupertino_icons
+  dio
+  equatable
+  flutter_bloc
+  flutter_offline
+  gallery_saver
+  get_it
+  google_fonts
+  http
+  path_provider
+  shared_preferences
